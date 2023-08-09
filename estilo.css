@@ -373,7 +373,7 @@ align-items: center;
     font-size: 1.8rem;
 }
 
-@media screen and (max-width: 43.75em){
+@media screen and (max-width: 45em){
     .container1{
         flex-direction: column;
         }
