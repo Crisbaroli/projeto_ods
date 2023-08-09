@@ -373,26 +373,34 @@ align-items: center;
     font-size: 1.8rem;
 }
 
-@media screen and (max-width: 45em){
+@media screen and (max-width: 50em){
     .container1{
         flex-direction: column;
         }
         .ods_h2_1{
             font-size: 3.2rem;
         }
+   .img3{
+      width: 40em;
+   }
+.img4{
+   width: 45em;
+}
+  
+   
     .img5{
-        width: 50em;
+        width: 45em;
     }
     .img6{
-        width: 50em;
+        width: 45em;
         margin-left: 9rem;
     }
     .img7{
-        width: 50rem;
+        width: 45rem;
         margin-left: 9rem;
     }
     .img9{
-        width: 56em;
+        width: 47em;
     }
     .img10{
         width: 47rem;
